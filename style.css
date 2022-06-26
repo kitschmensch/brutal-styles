@@ -1555,7 +1555,7 @@ input[type="radio"] + label {
 }
 
 .tooltipster-base .tooltipster-content {
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: 10px;
     font-weight: 700;    
 }
