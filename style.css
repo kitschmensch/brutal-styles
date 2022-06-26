@@ -14,6 +14,7 @@ Date:    23/01/2011
 */
 
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400&display=swap');
 
 * {
     margin: 0;
@@ -22,8 +23,8 @@ Date:    23/01/2011
 
 body {
     padding: 75px 20px 60px 20px;
-    background: #f2f2f2 !important;
-    font: 9pt/14pt 'Lato', Lato, 'Lucida Grande', Helvetica, Arial, sans-serif;
+    background: #ffffff !important;
+    font: 9pt/14pt 'EB Garamond', serif;
 }
 
 table {
@@ -46,7 +47,7 @@ a:hover {
 }
 
 h1,h2,h3 {
-    font-family: Lato, Helvetica, Arial, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-weight: bold;
     color: #444 !important;
 }
@@ -195,7 +196,7 @@ h1.hidden {
     display: block;
     text-transform: lowercase;
     color: #2a2a2a;
-    font-family: Lato, Helvetica;
+    font-family: 'EB Garamond';
     font-size: 13px;
     letter-spacing: 5px;
     position: relative;
